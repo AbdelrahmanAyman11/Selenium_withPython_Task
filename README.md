@@ -24,7 +24,8 @@ Automated UI tests for [saucedemo.com](https://www.saucedemo.com) using **Seleni
   b. cd Selenium_withPython_Task
 
 2. **You Need to Check That**:
-   a. selenium is installed ( pip install selenium ).
+
+    a. selenium is installed ( pip install selenium ).
    
    b. Pytest is installed.
    
