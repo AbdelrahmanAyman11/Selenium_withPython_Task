@@ -1,4 +1,4 @@
-# 🧪 Selenium Automation Task (SauceDemo)
+# 🧪 Selenium Automation Task (Swag Labs)
 
 Automated UI tests for [saucedemo.com](https://www.saucedemo.com) using **Selenium**, **Python**, and **Pytest**.
 
