@@ -19,9 +19,9 @@ Automated UI tests for [saucedemo.com](https://www.saucedemo.com) using **Seleni
 
 1. **Clone the Repository**:
 
-  a.git clone https://github.com/AbdelrahmanAyman11/Selenium_withPython_Task.git
-  
-  b. cd Selenium_withPython_Task
+    a.git clone https://github.com/AbdelrahmanAyman11/Selenium_withPython_Task.git
+    
+    b. cd Selenium_withPython_Task
 
 2. **You Need to Check That**:
 
