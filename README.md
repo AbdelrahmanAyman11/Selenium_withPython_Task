@@ -19,15 +19,18 @@ Automated UI tests for [saucedemo.com](https://www.saucedemo.com) using **Seleni
 
 1. **Clone the Repository**:
 
-  git clone https://github.com/AbdelrahmanAyman11/Selenium_withPython_Task.git
-  cd Selenium_withPython_Task
+  a.git clone https://github.com/AbdelrahmanAyman11/Selenium_withPython_Task.git
+  
+  b. cd Selenium_withPython_Task
 
 2. **You Need to Check That**:
    a. selenium is installed ( pip install selenium ).
+   
    b. Pytest is installed.
+   
    c. Python is installed.
 
-3. **Run All Of Tests**:
+4. **Run All Of Tests**:
     You can write in terminal : pytest tests
 
 📌 Assumptions Made:
