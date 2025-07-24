@@ -32,7 +32,10 @@ Automated UI tests for [saucedemo.com](https://www.saucedemo.com) using **Seleni
    c. Python is installed.
 
 4. **Run All Of Tests**:
+
     You can write in terminal : pytest tests
+
+
 
 📌 Assumptions Made:
 
